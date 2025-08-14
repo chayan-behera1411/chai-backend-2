@@ -1,0 +1,20 @@
+{
+  "name": "chai-backend-2",
+  "version": "1.0.0",
+  "description": "a backend project chai aur backend on youtube",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "Chayan Behera",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
